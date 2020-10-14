@@ -5,14 +5,14 @@
 
 ### This project is a project for the MSSA program that accomplishes the following goals:
 
--Goal 1: To provide a way to comfort those who are going through diffucult challanges in their lives
+-Goal 1: To provide a way to comfort those who are going through difficult challenges in their lives
 		 but may not have family, friends, or a spiritual leader to confide in. To provide an opportunity
 		 for anyone who would like to offer prayers for someone in need, the opportunity to reach millions.
 		 Application will allow user to cloak their name for those that would prefer to remain anonymous.
 		 Users will be able to log on from desktop or mobile devices to submit prayer request on a wall.
 		 A new wall can be created for a particular prayer request or user can post on an existing prayer wall.
 		 User will be able to select weather or not they would like contact from those offering to pray.
-		 Responing prayers can be posted on the wall or if user request to be contacted prayers can be sent by
+		 Responding prayers can be posted on the wall or if user request to be contacted prayers can be sent by
 		 email, phone call or text.
 		 Application will provide an option to be apart of a virtual prayer chain. Virtual Prayer Chain will send
 		 notification to members who sign up about matters to pray on. Alerts will go out once a week to allow 
